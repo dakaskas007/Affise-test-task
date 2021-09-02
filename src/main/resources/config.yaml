@@ -1,0 +1,13 @@
+browser: chrome
+
+base:
+  url: https://offers-preprod.affise.com/
+
+apiBackend:
+  url: https://api-preprod.affise.com
+
+keys:
+  apiKey: 456505a43730b5f2b4a98fb4ce5408c4
+
+methods:
+  addUser: /3.0/admin/user

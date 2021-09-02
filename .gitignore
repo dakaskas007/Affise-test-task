@@ -1,0 +1,5 @@
+.idea
+admin-console-api-tests/target
+*.iml
+# Project exclude paths
+/target/
